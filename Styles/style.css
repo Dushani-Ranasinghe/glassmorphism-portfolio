@@ -144,6 +144,7 @@ header .navbar ul li a:hover{
     margin: 1rem;
     color: #fff;
     font-size: 2rem;
+    border-radius: 1rem;
 }
 .home .share a:hover{
     background: rgba(255, 255, 255, 0.5);
